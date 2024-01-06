@@ -2,6 +2,10 @@
 
 [[Project Homepage]](https://mirrordiffusion.github.io/)  [paper]
 
+![comparison](./fig/more_addition.jpg)
+
+## Method
+
 ![method](./fig/method.png)
 
 ## Getting Started
@@ -16,6 +20,12 @@
   ```
   conda activate mirrordiffusion
   ```
+
+**Download Dataset**
+
+- C2D-F and C2G-F: <a href='https://drive.google.com/file/d/1q9PEfJYxYWhOdJloto0QuUg-bLUICh3_/view?usp=share_link'>[Google Drive]</a>.
+- H2Z-F:  <a href='https://drive.google.com/file/d/1iw440bF-G0NZjOTrew1KjbS-SYkE1Wce/view?usp=share_link'>[Google Drive]</a>.
+- S2O-F: <a href='https://drive.google.com/file/d/1LbAvRr1CvTu1GLXuk0Y2chYEsq0E3IQs/view?usp=share_link'>[Google Drive]</a>.
 
 **Real Image Translation**
 
@@ -36,7 +46,7 @@
 
 ## Comparison
 
-![comparison](./fig/comparison.jpg)
+![simple_comparison](./fig/simple_comparison.jpg)
 
 ## Acknowledgement
 
