@@ -1,0 +1,23 @@
+name: mirrordiffusion
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - pip
+  - pytorch-cuda=11.6
+  - torchvision
+  - pytorch
+  - pip:
+    - accelerate==0.23.0
+    - diffusers==0.12.1
+    - einops
+    - gradio
+    - ipython
+    - numpy
+    - opencv-python-headless
+    - pillow
+    - psutil
+    - tqdm
+    - transformers==4.26.1
+    - salesforce-lavis
