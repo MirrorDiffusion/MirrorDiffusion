@@ -1,19 +1,20 @@
 # MirrorDiffusion
 
-
+[[Project Homepage]](https://mirrordiffusion.github.io/)  [paper]
 
 ![method](./fig/method.png)
 
 ## Getting Started
 
 **Environment Setup**
+
 - We provide a [conda env file](environment.yml) that contains all the required dependencies
   ```
   conda env create -f environment.yml
   ```
 - Following this, you can activate the conda environment with the command below. 
   ```
-  conda activate mirror_diffusion
+  conda activate mirrordiffusion
   ```
 
 **Real Image Translation**
@@ -36,3 +37,7 @@
 ## Comparison
 
 ![comparison](./fig/comparison.jpg)
+
+## Acknowledgement
+
+This project is build based on [Pix2Pix-Zero](https://github.com/pix2pixzero/pix2pix-zero) and [Null-Text Inversion](https://github.com/google/prompt-to-prompt/#null-text-inversion-for-editing-real-images). We thank the authors for sharing their code.
