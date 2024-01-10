@@ -1,6 +1,6 @@
 # MirrorDiffusion
 
-[[Project Homepage]](https://mirrordiffusion.github.io/)  [paper]
+[[Project Homepage]](https://mirrordiffusion.github.io/)  [[paper]](https://arxiv.org/abs/2401.03221)
 
 ![comparison](./fig/more_addition.jpg)
 
